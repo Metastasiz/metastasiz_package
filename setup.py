@@ -1,7 +1,7 @@
 import setuptools
 
 PACKAGE_NAME = "metastasiz"
-VERSION = "0.0.1"
+VERSION = "0.0.3"
 DESCRIPTION = "placeholder"
 
 setuptools.setup(
