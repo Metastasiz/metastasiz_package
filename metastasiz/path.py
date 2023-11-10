@@ -22,4 +22,4 @@ def getPath(main_dir, path_to_target = "", max_subDir = 10):
     return path_parent
 
 def appendPath(main_dir, path_to_target = "", max_subDir = 10):
-    sys.path.append(str(getPath(main_dir, path_to_target = "", max_subDir = 10)))
+    sys.path.append(str(getPath(main_dir, path_to_target)))
