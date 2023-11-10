@@ -1,5 +1,1 @@
-#binary and source dist
-python setup.py bdist_wheel sdist
-#upload
-twine upload -r testpypi dist/*
-twine upload dist/*
+packge for my utils and some easy way to add local package path for easy import
